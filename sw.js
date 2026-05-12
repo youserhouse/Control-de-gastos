@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gastos-pareja-v1';
+const CACHE_NAME = 'control-gastos-2026-v1';
 
 self.addEventListener('install', e => {
   self.skipWaiting();
